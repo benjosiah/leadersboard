@@ -1,0 +1,51 @@
+body{
+    background-color: rgba(230, 238, 230, 0.533)
+}
+.wrap{
+    margin-top: 50px;
+}
+.lists{
+    
+    margin: auto;
+    width: 70%;
+    height: 20px;
+    display: flex;
+    background-color: #fff;
+    border: thin solid rgba(230, 238, 230, 0.533);
+    padding-top: 10px;
+}
+.lists-1{
+    margin: auto;
+    width: 70%;
+    height: 20px;
+    display: flex;
+    background-color:rgba(86, 185, 86, 0.533);
+    padding-top: 10px;
+}
+.lists-2{
+    
+    margin: auto;
+    width: 70%;
+    height: 20px;
+    display: flex;
+    background-color:  rgba(241, 245, 42, 0.533);
+    padding-top: 10px;
+}
+.lists-3{
+    margin: auto;
+    width: 70%;
+    height: 20px;
+    display: flex;
+    background-color: rgba(26, 182, 122, 0.533);
+    padding-top: 10px;
+}
+
+.list{
+    flex: 1;
+    text-align: center;
+    border: thin rgba(230, 238, 230, 0.533); 
+}
+span 
+{
+    text-align: center;
+}
